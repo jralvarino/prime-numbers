@@ -81,9 +81,4 @@ async function showPrimeNumbersParallel(number){
 }
 
 //showPrimeNumbersSequentially(100);
-showPrimeNumbersParallel(100);
-
-
-
-
-
+//showPrimeNumbersParallel(100);
